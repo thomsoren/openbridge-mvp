@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
+.notification-message {
+    flex-grow: 1;
+}
