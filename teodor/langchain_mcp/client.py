@@ -16,7 +16,6 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
-
 model = ChatOpenAI(model="gpt-4o-mini")
 
 async def main():
