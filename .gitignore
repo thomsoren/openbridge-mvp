@@ -3,3 +3,5 @@ package-lock.json
 .env
 
 .myvenv/
+
+servers_config.json
