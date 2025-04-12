@@ -3,5 +3,5 @@ package-lock.json
 .env
 
 .myvenv/
-
+teodor/langchain_mcp/github/servers_config.json
 servers_config.json
